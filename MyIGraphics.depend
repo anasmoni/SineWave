@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1465449036 source:c:\users\user\desktop\sine_wave\sine.cpp
+	"iGraphics.h"
+	<math.h>
+	<string.h>
+
+1463486882 c:\users\user\desktop\sine_wave\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
